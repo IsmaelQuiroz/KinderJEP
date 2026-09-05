@@ -1,0 +1,10 @@
+{
+  "description": "Create a modern, charming landing page for Juan Enrique Pestalozzi preschool, designed to engage parents and showcase the school's offerings.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
